@@ -13,8 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    print("Isso nao deveria estar aqui")
         
-        print("teste")
+    print("teste")
+        
+    print("isso deveria estar aqui")
+        
     }
 
 
