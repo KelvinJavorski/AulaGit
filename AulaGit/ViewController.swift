@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     print("isso deveria estar aqui")
         
         print("teste de conflito")
+        
+        print("teste")
     }
 
 
