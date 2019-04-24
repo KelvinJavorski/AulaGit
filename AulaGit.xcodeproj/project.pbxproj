@@ -12,6 +12,7 @@
 		B6EFE6942270CFA300EF763B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6EFE6922270CFA300EF763B /* Main.storyboard */; };
 		B6EFE6962270CFA400EF763B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6EFE6952270CFA400EF763B /* Assets.xcassets */; };
 		B6EFE6992270CFA400EF763B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6EFE6972270CFA400EF763B /* LaunchScreen.storyboard */; };
+		B6EFE6A12270D6CE00EF763B /* favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6EFE6A02270D6CE00EF763B /* favoritos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B6EFE6952270CFA400EF763B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6EFE6982270CFA400EF763B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6EFE69A2270CFA400EF763B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6EFE6A02270D6CE00EF763B /* favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favoritos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B6EFE6952270CFA400EF763B /* Assets.xcassets */,
 				B6EFE6972270CFA400EF763B /* LaunchScreen.storyboard */,
 				B6EFE69A2270CFA400EF763B /* Info.plist */,
+				B6EFE6A02270D6CE00EF763B /* favoritos.swift */,
 			);
 			path = AulaGit;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6EFE6912270CFA300EF763B /* ViewController.swift in Sources */,
+				B6EFE6A12270D6CE00EF763B /* favoritos.swift in Sources */,
 				B6EFE68F2270CFA300EF763B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
