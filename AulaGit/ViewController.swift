@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         print("teste de conflito")
         
         print("teste")
+        print("teste")
     }
 
 
